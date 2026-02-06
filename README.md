@@ -72,7 +72,8 @@ React · TypeScript · Tailwind CSS · shadcn/ui
 **Business-ready dashboard UI with scalable layout**
 
 🔗 **Live Demo:**  
-https://sk-admin-dashboard.vercel.app  
+https://vercel.com/selvaganapathys-projects-840a79fb/admin-dashboard/5bB9cUbSMGZirC9iWWfiZtkpuc9j
+
 
 **Tech Stack:**  
 React · TypeScript · Tailwind CSS · shadcn/ui · GSAP  
