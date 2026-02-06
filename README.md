@@ -72,7 +72,7 @@ React · TypeScript · Tailwind CSS · shadcn/ui
 **Business-ready dashboard UI with scalable layout**
 
 🔗 **Live Demo:**  
-https://vercel.com/selvaganapathys-projects-840a79fb/admin-dashboard/5bB9cUbSMGZirC9iWWfiZtkpuc9j
+https://admin-dashboard-one-zeta-57.vercel.app 
 
 
 **Tech Stack:**  
@@ -89,7 +89,7 @@ React · TypeScript · Tailwind CSS · shadcn/ui · GSAP
 **Real-world API-driven data exploration app**
 
 🔗 **Live Demo:**  
-https://world-explorer-sk.vercel.app  
+ https://world-explorer-global-intelligence.vercel.app/
 
 **Tech Stack:**  
 React · JavaScript · REST APIs · Tailwind CSS  
