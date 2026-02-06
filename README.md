@@ -1,9 +1,8 @@
 # 👋 Hi, I’m Selva Ganapathy
 
-🚀 Frontend Developer | React.js | Next.js | JavaScript | TypeScript  
-
-I build **real-world, production-ready web applications** with clean UI, scalable architecture, and modern frontend practices.  
-My focus is on **performance, maintainability, and user-centric design** — not just demos.
+Frontend Developer | React • Next.js • TypeScript • Tailwind CSS
+Building production-ready web apps with clean UI, scalable architecture, and modern practices.
+Open to Frontend Developer opportunities 🚀
 
 ---
 
