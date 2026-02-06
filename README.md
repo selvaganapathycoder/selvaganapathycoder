@@ -40,7 +40,7 @@ Open to Frontend Developer opportunities 🚀
 **AI-powered sustainability-focused web application**
 
 🔗 **Live Demo:**  
-https://sustainable-shopping-assistant-3dbj231dj.vercel.app  
+https://sustainable-shopping-assistant-jblfx4r0b.vercel.app 
 
 **Tech Stack:**  
 React · TypeScript · Tailwind CSS · Supabase · REST APIs  
