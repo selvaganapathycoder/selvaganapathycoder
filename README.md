@@ -1,98 +1,135 @@
-# 👋 Hi, I'm Selva Ganapathy
+# 👋 Hi, I’m Selva Ganapathy
 
-🚀 Frontend Developer | React.js | Next.js | JavaScript | TypeScript | Firebase
+🚀 Frontend Developer | React.js | Next.js | JavaScript | TypeScript  
 
-I’m a passionate **Frontend Developer** focused on building **real-world, production-ready web applications** with clean UI, scalable architecture, and modern React practices.
-
-I enjoy solving real problems through technology and continuously improving my skills by building and shipping projects.
+I build **real-world, production-ready web applications** with clean UI, scalable architecture, and modern frontend practices.  
+My focus is on **performance, maintainability, and user-centric design** — not just demos.
 
 ---
 
 ## 🧠 Tech Stack
 
-### Frontend
+### 🎨 Frontend
 - React.js, Next.js
 - JavaScript (ES6+), TypeScript
 - HTML5, CSS3
 - Tailwind CSS, Bootstrap
+- shadcn/ui
 
-### State & Data
-- Redux Toolkit
-- Context API
+### 🌀 UI & Motion
+- GSAP (scroll & interaction animations)
+- Responsive & mobile-first design
+
+### 🧩 Backend & Data
+- Supabase
+- Firebase (Auth, Firestore)
 - REST APIs
-- Firebase (Authentication, Firestore)
 
-### Tools
+### ⚙️ Tools & Platforms
 - Git & GitHub
-- Vercel
-- Responsive & Mobile-First Design
+- Vercel (deployment & CI/CD)
+- Figma (UI & UX design)
+- AI-assisted development (GitHub Copilot, Antigravity CLI)
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌱 Sustainable Shopping Assistant
-🔗 **Live Demo:** https://sustainable-shopping-assistant-3dbj231dj.vercel.app
-
-A web application that helps users make **eco-friendly shopping decisions** by suggesting sustainable alternatives.
-
-**Tech:** React.js, JavaScript, REST APIs, Firebase  
-**Highlights:**
-- Sustainability-focused real-world solution
-- API integration
-- Clean and responsive UI
+## 🚀 Featured Projects (Hiring-Focused)
 
 ---
 
-### 📘 Sebathi V3
-🔗 **Live Demo:** https://sebathi-v3-3txvxq2h7-selvaganapathys-projects-840a79fb.vercel.app
+### 🌱 Sustainable Shopping Assistant  
+**AI-powered sustainability-focused web application**
 
-A modern, user-friendly web application built with a focus on **simplicity, performance, and accessibility**.
+🔗 **Live Demo:**  
+https://sustainable-shopping-assistant-3dbj231dj.vercel.app  
 
-**Tech:** React.js, JavaScript, HTML, CSS  
-**Highlights:**
-- Component-based architecture
-- Mobile-friendly design
-- Optimized UI experience
+**Tech Stack:**  
+React · TypeScript · Tailwind CSS · Supabase · REST APIs  
 
----
-
-### 🍎 Fresh Sense – Food Freshness Classifier
-🔗 **Live Demo:** https://fresh-sense-ohz93zrb3-selvaganapathys-projects-840a79fb.vercel.app
-
-An AI-assisted frontend application that allows users to **check food freshness** through an intuitive interface.
-
-**Tech:** React.js, JavaScript, API Integration  
-**Highlights:**
-- Image upload & result display
-- Clean UX for real-world usage
-- Responsive design
+**Why This Matters:**  
+- Solves a **real-world sustainability problem**
+- Clean architecture & scalable UI
+- Production-style frontend implementation
 
 ---
 
-### 🎬 Movie App
-🔗 **Live Demo:** https://movie-bsxtcogff-selvaganapathys-projects-840a79fb.vercel.app
+### ⚙️ Sebathi V3  
+**Modern React UI system focused on performance and scalability**
 
-A movie browsing application that demonstrates **API-driven UI development** and responsive layouts.
+🔗 **Live Demo:**  
+https://sebathi-v3-3txvxq2h7-selvaganapathys-projects-840a79fb.vercel.app  
 
-**Tech:** React.js, JavaScript, Movie API  
-**Highlights:**
-- Browse & view movie details
-- API integration
-- Responsive UI
+**Tech Stack:**  
+React · TypeScript · Tailwind CSS · shadcn/ui  
+
+**Why This Matters:**  
+- Component-driven architecture
+- Design-system mindset
+- Recruiter-friendly UI structure
 
 ---
 
-## 📈 What I’m Currently Focusing On
-- Advanced React & Next.js concepts
+### 📊 Admin Dashboard  
+**Business-ready dashboard UI with scalable layout**
+
+🔗 **Live Demo:**  
+https://sk-admin-dashboard.vercel.app  
+
+**Tech Stack:**  
+React · TypeScript · Tailwind CSS · shadcn/ui · GSAP  
+
+**Why This Matters:**  
+- Mirrors real company dashboards
+- Reusable components & clean state flow
+- Strong signal for frontend hiring
+
+---
+
+### 🌍 World Explorer  
+**Real-world API-driven data exploration app**
+
+🔗 **Live Demo:**  
+https://world-explorer-sk.vercel.app  
+
+**Tech Stack:**  
+React · JavaScript · REST APIs · Tailwind CSS  
+
+**Why This Matters:**  
+- API integration & async data handling
+- Real-world data visualization
+- Clean responsive layouts
+
+---
+
+### 🍹 SK Mojito Hub  
+**Creative frontend project focused on motion & interaction**
+
+🔗 **Live Demo:**  
+https://sk-mojito-hub.vercel.app  
+
+**Tech Stack:**  
+React · GSAP · Tailwind CSS · Figma  
+
+**Why This Matters:**  
+- Advanced UI motion skills
+- Scroll-based animations
+- Strong visual differentiation
+
+---
+
+## 📈 What I’m Focused On Now
+
+- Advanced React & Next.js patterns
 - Performance optimization
 - Scalable frontend architecture
-- TypeScript & clean code practices
+- TypeScript best practices
+- Production-level UI systems
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/selva-ganapathy-developer
-- 💻 GitHub: https://github.com/selvaganapathycoder
 
-⭐ Feel free to explore my repositories and projects!
+- 💼 **LinkedIn:** https://www.linkedin.com/in/selva-ganapathy-developer  
+- 💻 **GitHub:** https://github.com/selvaganapathycoder  
+
+⭐ Open to **Frontend Intern / Junior Frontend / React Developer** roles
