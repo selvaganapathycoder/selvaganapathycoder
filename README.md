@@ -58,6 +58,29 @@ Open to Frontend Developer opportunities 🚀
 
 ---
 
+###🌐 Developer Portfolio (Production-Ready)
+
+Modern animated portfolio showcasing real-world frontend skills, projects, and UI craftsmanship.
+
+🔗 Live Demo:
+portfolio-murex-five-bxfaadsgq5.vercel.app
+
+📂 GitHub Repo:
+https://github.com/selvaganapathycoder/-portfolio-
+
+Tech Stack:
+React · Tailwind CSS · GSAP · Modern UI Patterns
+
+Why This Matters:
+
+Recruiter-focused project showcase
+
+Advanced animations & smooth UX
+
+Clean layout, strong personal branding
+
+Real-world portfolio structure companies expect
+
 ### 🌱 Sustainable Shopping Assistant
 **AI-powered sustainability-focused web application**
 
