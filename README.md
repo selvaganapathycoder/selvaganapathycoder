@@ -63,7 +63,7 @@ Open to Frontend Developer opportunities 🚀
 Modern animated portfolio showcasing real-world frontend skills, projects, and UI craftsmanship.
 
 🔗 Live Demo:
-portfolio-murex-five-bxfaadsgq5.vercel.app
+https://portfolio-murex-five-bxfaadsgq5.vercel.app/
 
 📂 GitHub Repo:
 https://github.com/selvaganapathycoder/-portfolio-
