@@ -53,8 +53,19 @@ Open to **Frontend Developer** opportunities 🚀
 
 * Git & GitHub
 * Vercel (Deployment & CI/CD)
+* pnpm, Turborepo
 * Figma (UI & UX Design)
 * AI-assisted development (GitHub Copilot, Antigravity CLI)
+
+---
+
+## 🤝 Open Source Contributions
+
+### [Cal.com](https://github.com/calcom/cal.com) — Open Source Scheduling Infrastructure
+* **Tech Stack:** React · Next.js · TypeScript · Tailwind CSS · pnpm · Turborepo
+* **Contribution:** Refactored core UI components in the `@calcom/ui` package to remove technical debt by replacing legacy inline styles with Tailwind CSS utility classes.
+* **Impact:** Improved codebase maintainability and helped standardize styling across a large-scale monorepo with 30k+ GitHub stars.
+* **Workflow:** Successfully managed migration from Yarn to pnpm and resolved complex dependency resolutions in a production-scale architecture.
 
 ---
 
