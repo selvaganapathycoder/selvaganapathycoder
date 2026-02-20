@@ -68,8 +68,6 @@ Open to **Frontend Developer** opportunities 🚀
 * **Workflow:** Successfully managed migration from Yarn to pnpm and resolved complex dependency resolutions in a production-scale architecture.
 
 ---
-## 🚀 Streak Calendar Feature – Open Source Contribution  
-
 Contributed a **Streak Calendar feature** to the **Protein Drink Tracker (PWA)**.
 
 ### ✨ What I Built
