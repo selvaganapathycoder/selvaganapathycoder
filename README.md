@@ -68,7 +68,22 @@ Open to **Frontend Developer** opportunities 🚀
 * **Workflow:** Successfully managed migration from Yarn to pnpm and resolved complex dependency resolutions in a production-scale architecture.
 
 ---
+## 🚀 Streak Calendar Feature – Open Source Contribution  
 
+Contributed a **Streak Calendar feature** to the **Protein Drink Tracker (PWA)**.
+
+### ✨ What I Built
+- 📅 Monthly calendar view (Vanilla JS + CSS)  
+- 🔥 Live streak counter with highlight styling  
+- 🌗 Dark / Light theme support (CSS variables)  
+- 📱 Fully mobile responsive  
+- 💾 Integrated with existing localStorage data model  
+
+🔗 PR: https://github.com/selvaganapathycoder/protein-drink-tracker/pull/1  
+
+**Tech Stack:** JavaScript, HTML, CSS (Glassmorphism), PWA  
+
+---
 ## 🚀 Featured Projects (Hiring-Focused)
 
 ### 🌐 Developer Portfolio (Production-Ready)
