@@ -62,15 +62,29 @@ Open to **Frontend Developer** opportunities 🚀
 ## 🤝 Open Source Contributions
 
 ### [Cal.com](https://github.com/calcom/cal.com) — Open Source Scheduling Infrastructure
-* **Tech Stack:** React · Next.js · TypeScript · Tailwind CSS · pnpm · Turborepo
-* **Contribution:** Refactored core UI components in the `@calcom/ui` package to remove technical debt by replacing legacy inline styles with Tailwind CSS utility classes.
-* **Impact:** Improved codebase maintainability and helped standardize styling across a large-scale monorepo with 30k+ GitHub stars.
-* **Workflow:** Successfully managed migration from Yarn to pnpm and resolved complex dependency resolutions in a production-scale architecture.
+**Tech Stack:** React · Next.js · TypeScript · Tailwind CSS · pnpm · Turborepo  
+
+- Refactored core UI components in the `@calcom/ui` package to remove technical debt by replacing legacy inline styles with Tailwind CSS utility classes.  
+- Improved codebase maintainability and helped standardize styling across a large-scale monorepo with 30k+ GitHub stars.  
+- Successfully managed migration from Yarn to pnpm and resolved complex dependency resolutions in a production-scale architecture.  
 
 ---
+
+### [react-use](https://github.com/streamich/react-use) — Essential React Hooks Collection
+**Tech Stack:** React · TypeScript  
+
+🔧 Fixed a memory leak bug in the `useScrolling` hook by implementing proper timeout cleanup logic during component unmount to prevent lingering timers and unintended memory retention.  
+
+🔗 Repository: https://github.com/streamich/react-use  
+🔗 Pull Request: https://github.com/streamich/react-use/pull/2675  
+
+---
+
+### Protein Drink Tracker (PWA)
+
 Contributed a **Streak Calendar feature** to the **Protein Drink Tracker (PWA)**.
 
-### ✨ What I Built
+**What I Built:**
 - 📅 Monthly calendar view (Vanilla JS + CSS)  
 - 🔥 Live streak counter with highlight styling  
 - 🌗 Dark / Light theme support (CSS variables)  
@@ -79,7 +93,7 @@ Contributed a **Streak Calendar feature** to the **Protein Drink Tracker (PWA)**
 
 🔗 PR: https://github.com/selvaganapathycoder/protein-drink-tracker/pull/1  
 
-**Tech Stack:** JavaScript, HTML, CSS (Glassmorphism), PWA  
+**Tech Stack:** JavaScript · HTML · CSS (Glassmorphism) · PWA  
 
 ---
 ## 🚀 Featured Projects (Hiring-Focused)
